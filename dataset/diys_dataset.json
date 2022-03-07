@@ -1,0 +1,2630 @@
+{
+    "curiosity_phrases": [
+        "The hammer and plain are said to have been invented by the Romans.",
+        "The saw and the set-square is thought to have been invented by Egyptians.",
+        "The screwdriver existance can be traced back to the 15th century.",
+        "Torque wrench was invented by Conrad Bahr in 1918 while working for the New York City Water Department.",
+        "Tool specialization for agriculture may have begun as long as 10000 years ago.",
+        "Early hand tools were made with materials, such as, volcanic glass.",
+        "Cast metal scissors, similar to those we use today, were first produced in 1761.",
+        "Humans have been painting for as long as 30000 years.",
+        "Artists used to store their paint in animal bladder.",
+        "Acrylic paint only became commercially available in the 50s.",
+        "Oil paint takes 2 weeks to dry.",
+        "Spray paint was invented in the 1949.",
+        "It takes 570 gallons of paint to repaint the White House.",
+        "During Roman times, it took 4 million crushed mollusk shells to create one pound of purple pigment.",
+        "The color purple was once associated with royalty. At one time only aristocrats could afford the expensive pigment.",
+        "In 2004, an artist painted the tip of an iceberg in Greenland bright red, using 3000 liters of a pigment.",
+        "Sir Isaac Newton created the color wheel in 1706.",
+        "It took Michelangelo 4 years to paint the famous ceiling of the Sistine Chapel in the 16th century.",
+        "It took 20 years to restore Michelangelo's Sistine Chapel paiting, in the late 20th century.",
+        "The majority of homeowners tend to stay in their homes for around six years before moving.",
+        "The term 'housewarming party' comes from the literal tradition that used to occur before electricity.",
+        "The creaks in a house often relate to temperature and humidity changes inside it, and not due to its age.",
+        "Some 57% of homeowners in America feel their house is still in the 'work-in-progress' stage.",
+        "81% of the worldwide DIY market is centered around 8 countries.",
+        "36% of Americans took on a DIY project to make their living space more enjoyable.",
+        "Interior painting is the most popular DIY job.",
+        "The first pencil was invented in England in 1565.",
+        "Leonardo da Vinci spent 12 years painting the Mona Lisa’s lips.",
+        "The most ancient candles are from China and Japan and were made of whale fat.",
+        "The sewing machine was invented in 1790 by Thomas Saint.",
+        "The average household uses 14.3 meters of sellotape each year. Only 3.2 meters is used for wrapping presents.",
+        "92% of paper crafters create cards more than any other type of project.",
+        "In 2010, an American study found that there were 21 million quilters in the USA.",
+        "A small amount of super glue is strong enough to lift a 2-ton jeep off the ground.",
+        "In the 16th century France, knitting was an occupation for males only.",
+        "The first knitting machine was invented in 1589.",
+        "Ivory, tortoise shell or bones used to compose the material of knitting needles.",
+        "Origami is the art of paper folding, which is often associated with Japanese culture.",
+        "Paper was first invented and popularized in China.",
+        "Origami was initially used only for religious purposes due to the high cost of paper.",
+        "The first book about origami was Sembazuru Orikata (Thousand Crane Folding) written by Akisato Rito and published in 1797.",
+        "November 11th is Origami Day!",
+        "The fastest time to make 100 origami cranes is 40 minutes 35 seconds achieved by Yoneyama Yuichi.",
+        "About 1400 species of grasses exist in the United States.",
+        "Grasses make up about 26% of the plant life on earth.",
+        "A healthy lawn can increase a house's value by up to 20%.",
+        "A 2500 square foot lawn produces enough oxygen for a family of four.",
+        "Some of the oldest roofing materials in the world are thatch, clay, and stone.",
+        "Clay tiles can be traced all the way back to around 10000 years before christ.",
+        "National DIY day is celebrated on the 7th of April.",
+        "In the United States, march is the national crochet month.",
+        "In the United States, on the 16th of may it's the national drawing day.",
+        "In the United States, on the 30th of may it's the national creativity day.",
+        "On the 28th of october it's the international artist day.",
+        "The global market for home improvement was worth more than 800 billion dollars in 2018.",
+        "Single people are less likely to make home improvements than married people.",
+        "More than 50% of houses in the US were built before 1980.",
+        "In 2018, remodeling a kitchen cost, on average, around 14000 dollars.",
+        "England’s King George II died in 1760 after falling off his toilet.",
+        "NASA invested more than 20 million dollars in a suction-style toilet for the International Space Station.",
+        "The average person uses a toilet about 2,500 times annually.",
+        "A toilet uses almost seven gallons of water each time it is flushed.",
+        "16th of november id the world toilet day.",
+        "A sunflower is not just one flower, but rather thousands of individual flowers.",
+        "There are more microorganisms in one teaspoon of soil than there are people on earth.",
+        "Music can affect plants growth.",
+        "A small amount of baking soda can help you grow sweeter tomatoes, by reducing acidity.",
+        "The first greenhouses in history were built in Rome in A.D. 30.",
+        "Nearly 1000 jasmine flowers and a dozen of roses go into a single bottle of Chanel No. 5 perfume.",
+        "The iris flower is named after the Greek goddess Iris who carries messages of love from heaven to earth.",
+        "In ancient Greek mythology, Hyakinthos was the god of spring flowers.",
+        "There is a garden in England called The Poison Garden, which is the home of 100 murderous plants.",
+        "When a fig is pollinated by a fig wasp, the fig flower traps the wasp and digests the wasp's corpse.",
+        "Some types of figs are not considered vegan, as they can contain wasp trails.",
+        "The Old English word geard means \"fence\" and it was the origin of the words \"garden\" and \"yard\".",
+        "Many religions use gardens as symbols of paradise and immortality.",
+        "June 12 is the Red Rose Day.",
+        "Wood was the first drawing material used by humans.",
+        "The most expensive wood in the world is the African Blackwood.",
+        "African Blackwood is used primarily to make luxurious woodwind instruments like clarinets and oboes.",
+        "Trees never die of old age. Insects, diseases and people are usually the killers.",
+        "White oak is the easiest wood to bend using steam.",
+        "The world’s heaviest wood is Australian Bauhinia Red.",
+        "Wet wood, unlike dry wood, can conduct electricity.",
+        "The heaviest American wood is Lignum Vitae Holywood, particularly rich in Lignin.",
+        "Iceland is the country that uses the most electricity annually.",
+        "The world's biggest light bulb is located in Edison, New Jersey and it's 14 feet tall.",
+        "The average U.S. home uses 11000 kWh of electricity every year.",
+        "Electric cars date back as far as 1932.",
+        "Coal is the world's biggest dource of rlectricity.",
+        "Over 50% of paid electricity is wasted.",
+        "LED Lightbulbs use 80% less electricity, than regular lightbulbs.",
+        "80% of Americans who have a gym membership don't even use it.",
+        "The first car with optional air conditioning was introduced in 1939.",
+        "The first air conditioner wasn’t designed for comfort, but rather for avoiding paper to expand.",
+        "Herbert Hoover was the first president to have the luxury of having air conditioner.",
+        "Air conditioners help to remove allergens and other smaller particles from indoor air.",
+        "Home fitness equipment Market is expected to reach 23.27 billion dollars by the year 2025.",
+        "Steppers and weight benches have been the most growing home gym equipment to be purchased since 2020, in the UK.",
+        "78% of americans have home fitness products.",
+        "The first automatic washing machine in 1937.",
+        "Protein-based stains such as blood, sweat, and other body fluids, should never be cleaned with hot water on them.",
+        "The best thing for removing a fat or oil-based stains is to rub cornflour into the stain.",
+        "Soap dates back thousands of years starting with the ancient Babylonians from about 5000 years ago.",
+        "Synthetic detergents were invented in the beggining of the 20th century.",
+        "The world's first automobile was developed by Carl Benz in 1885.",
+        "In 1908, the Model T developed by Henry Ford became the first car available to the masses.",
+        "There are an estimated 1.2 billion cars in the world today.",
+        "An average car has 30000 parts.",
+        "Almost 95% of a car's lifetime is spent parked.",
+        "According to an Australian study, white vehicles are 10% less likely to be involved in an accident.",
+        "The word \"car\" comes from the Latin word \"carrus\", a two-wheeled wagon.",
+        "Seat belts were invented by Volvo and were not patented.",
+        "Leonardo da Vinci invented the first car in 1478 on paper and in 2004, a replica of the car was crafted.",
+        "The small triangle icon next to the fuel icon on the dashboard of a car indicates the gas door side.",
+        "Cars are the most recycled consumer product in the world.",
+        "Windshield wiper was invented by Mary Anderson in 1903, and was first used in a car in 1922.",
+        "Motorola's first product was a car radio.",
+        "Most car horns beep in the key of F.",
+        "Chalk is made from the bones of ancient sea creatures.",
+        "Some towns in Canada use beet juice to melt ice on wintry roads.",
+        "Weaving is acknowledged as one of the oldest surviving crafts in the world.",
+        "In the early years, cars were seen as the environmentally friendly option because of the waste left behind by horses.",
+        "Antilock brakes were invented over 50 years ago.",
+        "On the 21th of June it's the international yoga day.",
+        "On the 11th of March it's the international plumbing day.",
+        "On the 11th of March it's the national worship of tools day.",
+        "On the 28th of April it's the workers' memorial day.",
+        "Most adults have 32 teeth, which is 12 teeth more than children.",
+        "You'll spend on average over two months of your life brushing your teeth.",
+        "A tongue print is unique human identifier like a fingerprint.",
+        "Henry Seeley invented the first electric iron in 1882.",
+        "Thousands years ago in China, pieces of heated metal were used like an iron to uncrease clothes.",
+        "Burning coconut shells were used to heat clothes irons instead of charcoal in India.",
+        "Nearly 75 percent of all scalding burns in children are preventable.",
+        "You should never apply ice or ice water to a burn.",
+        "Over one million Earth's could fit inside the Sun.",
+        "The Sun is travelling at 220 km per second.",
+        "It takes eight minutes for light to reach Earth from the Sun.",
+        "A human body contains more than 600 muscles.",
+        "A human body contains 206 skeletal bones.",
+        "The largest muscle in the human body is the gluteus maximus.",
+        "The smallest muscles in the human body are in your inner ear.",
+        "Muscles make up about 40 percent of a human total body weight.",
+        "Flax is the earliest known natural textile fabric seen to be used in about 5000 BC.",
+        "China is the largest maker and exporter of silk in the world.",
+        "Microfibre or Ultrasuede was invented over 20 years ago in Japan.",
+        "Nylon is a man-made fabric which was first produced in 1938.",
+        "The highest quality cotton comes from Eqypt.",
+        "Rayon, was the first man-made fiber created in 1910 and it was called 'artificial silk'.",
+        "It takes around 700 gallons of water to make a cotton shirt.",
+        "Shoes can take up to 1000 years to break down.",
+        "70% of the world wears secondhand clothing.",
+        "The first pair of Doc Martens Boots were created from old tires.",
+        "The skirt is the second-oldest human garment.",
+        "Agatha Christie suffered from dysgraphia which meant she could not write legibly. Therefore she dictated all of her novels.",
+        "The first published novel 'written' on a word-processor was Len Deighton's 1968 novel Bomber.",
+        "John Steinbeck would use up to 60 pencils per day, when writing a book.",
+        "The average shower temperature is 108° Fahrenheit.",
+        "The amount of water used in a 5 minute shower corresponds to 20 gallons.",
+        "The average time spent showering is 8 minutes.",
+        "The first commercial dishwasher was invented in 1887.",
+        "Motor-powered dishwashers were not invented until 1920.",
+        "Contemporary dishwashers use 1/10 water of an average hand wash.",
+        "The longest ladder ever measures 135 feets.",
+        "The first ladder was depicted in a painting in Spain, dating back at least 10000 years.",
+        "A lava lamp is a decorative lamp, invented in 1963 by the British entrepreneur Edward Craven Walker.",
+        "Wireless internet was founded in September 1990.",
+        "Wristwatches were originally made for women.",
+        "The watch worn by the first moon landing astronauts was the Omega Speedmaster.",
+        "Most advertisements have watches set to 10:10.",
+        "\"Moon trees\" were grown from seeds taken to the moon during the Apollo 14.",
+        "There are 60000 tree species in the world and many are threatened with extinction.",
+        "Brazil, Colombia, and Indonesia have the highest number of native tree species.",
+        "Different parts of a tree grow at different times throughout the year.",
+        "Card games originated in China.",
+        "The set of playing cards as we know it today was invented by the French in 1480.",
+        "Cheap tractors in the late 1920s helped launch an agricultural revolution.",
+        "Crop yield monitors and GPS field navigation first appeared in agriculture in the mid 1990s.",
+        "\"Green Eggs and Ham\" was one of the first GPS receivers developed for farming.",
+        "Women make up 30 percent of today's farmers.",
+        "Texas has 248809 registered farms, more than any other state in the nation.",
+        "One-third of the U.S is covered with trees.",
+        "An acre of land is about the same size as a football field.",
+        "Cats don't actually meow at each other, instead they use it as a communication tool reserved for humans.",
+        "The average life expectancy for a goldfish in the wild is 41 years.",
+        "Dogs lick their feet, among other reasons, to help them remember where they have been.",
+        "Hamsters' cheek pouches extend all the way down to their hips.",
+        "There are around 1500 species of geckos.",
+        "Dogs have unique nose prints.",
+        "Americans adopt 3.2 million shelter animals every year.",
+        "A sofa normally stays in a usable condition for about 8 to 9 years.",
+        "Chairs were not commonly used until the 16th century.",
+        "Table is derived from the latin word \"Tabula\" which means \"plank\" or \"flat piece of board\".",
+        "The Japanese normally sleep on a bed called a tatami, which is like a mat spread out on the floor.",
+        "The naturalist Charles Darwin, is known to be the inventor of the modern office chair, with wheels.",
+        "The word \"chair\" came from the Latin word \"cathedra\" meaning 'sit' and 'down'.",
+        "The oldest bookcase in the world is located in Bodleian library at Oxford University.",
+        "The oldest bathtub yet discovered dates back to 1500 BC.",
+        "The average person spends at least 92 days in the toilet over their lifetime.",
+        "In South Korea, there is a Toilet Themed Park, containing toilet art and a museum.",
+        "70% of dirt on clothes is invisible.",
+        "The first washing machine was called 'Thor'.",
+        "World's busiest kitchen, The Sikh Golden Temple in Amritsar, in India, serves on average almost 100000 people per day.",
+        "The most expensive kitchen in the world costs 1000000 pounds and took 1 year to be created.",
+        "In space, cooking can be tricky, so astronauts use duct tape to stick cooking accessories to work surfaces.",
+        "The word \"garage\" comes from the French word \"garer\", which means \"to shelter\".",
+        "There are more than 82 million American homes with a garage.",
+        "Some music bands that got their start in a garage include the Beatles, Nirvana and Metallica.",
+        "Some blue-chip companies that got their start in a garage include Apple, Amazon, Walt Disney, Mattel, and Google.",
+        "The first overhead garage door was invented by G. Johnson in 1921.",
+        "G. Johnson invented the first automatic door opener in 1926.",
+        "60 minutes of solar energy could power the Earth for a year.",
+        "Liquified natural gas is chilled to a low negative temperature so it's easy to transport and store.",
+        "10 Google searches can power a 60-watt lightbulb.",
+        "The word 'energy' is derived from an ancient greek word 'energeia', which means 'state of being at work'.",
+        "A single wind turbine can power around 1400 homes.",
+        "The world's longest bike was 135 feet long and was built in 2015.",
+        "A bicycle can stay upright without a rider as long as it's moving at 8mph or faster.",
+        "The largest rideable bicycle has a wheel diameter of 10 ft and was built by Didi Senft from Germany.",
+        "Popular bicycle type BMX was created in 1970s as a cheaper alternative to motocross races.",
+        "Seven out of eight people in Netherlands that is older than 15 year old has a bicycle.",
+        "Over 100 million bicycles are manufactured each year.",
+        "Fist Mountain Bikes were made in 1977.",
+        "United States is the home of over 400 cycling clubs.",
+        "Insects have two antennae and have six legs.",
+        "Ants can lift and carry more than fifty times their own weight.",
+        "While gathering food, a bee may fly up to 60 miles in one day.",
+        "Houseflies find sugar with their feet, which are 10 million times more sensitive than human tongues.",
+        "Insects have been present for about 350 million years, and humans for only 300000 years.",
+        "There are about 91000 different species of insects in the United States.",
+        "The physics of displacement was discovered by Archimedes while he was soaking in a bathtub.",
+        "It's against the law for donkeys to sleep in bathtubs in Arizona.",
+        "The average bathtub holds approximately 200 Litres of water.",
+        "On the Titanic more than 700 third class passengers had to share only two bathtubs.",
+        "One leaky faucet in a house that drips once per second can equate to over 180 showers not taken per year.",
+        "10% of homes in the U.S. contain leaks that waste a minimum of 90 gallons of water daily.",
+        "Early faucets weren’t much more than terra cotta piping leading water into a fountain, but date back to 1700 BC.",
+        "The first silver faucets came into use by the Ancient Romans in 1000 BC.",
+        "Alfred Moen is credited with inventing the single-handled faucet in 1937.",
+        "Having a working smoke detector more than doubles one's chances of surviving a fire.",
+        "Cooking equipment is the number-one cause of home fires.",
+        "In 1896, Guglielmo Marconi, the father of radio, received a patent for his \"wireless telegraph\".",
+        "In 1919, the first radio station in America began operations in Pittsburgh.",
+        "In, 1971 AM-FM radios became standard in new cars.",
+        "70% of Americans tune in to radio for 2 hours and 40 minutes each day.",
+        "There are approximately 14865 radio stations currently operating in the United States.",
+        "First American television station started working in 1928.",
+        "The word \"Television\" was coined in 1900 by Russian scientist Constantin Perskyi.",
+        "First TV satellite was launched in 1962.",
+        "American homes spend on average 4% on their electricity on powering television.",
+        "HD television standards were officially ratified in 1996.",
+        "In 1742, at the age of 36, Benjamin Franklin invented the original version of the Franklin Stove.",
+        "The first CCTV camera was installed in Germany in 1942.",
+        "There are 25 million CCTV cameras in operation worldwide.",
+        "Surveillance cameras were not used publicly until 1962 when cameras were installed in Olean, New York to discourage crime.",
+        "The first industry to adopt the use of security cameras to prevent theft was the banking industry.",
+        "In 1996, Axis Communications released the first IP camera.",
+        "Alexander Graham Bell patented his first electric loudspeaker in 1876.",
+        "The most common type of loudspeaker today is the dynamic speaker, which was invented in 1925.",
+        "The expected life span of cotton fabric is about 100 years.",
+        "Zippers were invented in 1893.",
+        "Sewing needles found commonly at ancient archaeologist sites were made of bone and ivory, instead of metal.",
+        "Sewing was one of the first skills Homo Sapiens learnt.",
+        "Metal roofing materials are often lighter in weight than wood shingles.",
+        "75% of the homes in North America have asphalt shingles.",
+        "Vinyl liner pools are the most common type of swimming pool.",
+        "The state with the most swimming pools is California, with 1.1 millions swimming pools.",
+        "The world's largest residential pool in the US is in texas carrying over 600000 gallons of water.",
+        "President Gerald Ford built the white house pool in 1975.",
+        "Pool filters have been around for 105 years.",
+        "The most popular swimming pool game is marco polo.",
+        "The first tree house can be traced back to ancient civilizations, more than 40000 years ago.",
+        "The majority of Indonesian tribes Korowai and Papua still live in tree houses.",
+        "In the Middle ages, Franciscan and Hindu monks used tree houses for living in and for meditation.",
+        "During the Renaissance period tree houses became very popular in Europe, especially in Italy.",
+        "The world's longest fence was established in 1859, in Australia, to protect from wild dogs and rabbits.",
+        "The original purpose of the US/Mexico border fence was to help deal with ticks, from mexican catle.",
+        "In ancient times, the cheapest alternative to erecting a fence was to dig a deep ditch or trench and fill it with water.",
+        "A deep ditch or trench filled with water is called a moat.",
+        "Fences can be made of live plants like Kei Apple fances.",
+        "In the 1900s, advancements in machinery started to replace shovels.",
+        "In 1967, a wooden shovel from approximately 2000 BC was discovered in Turkey.",
+        "Throughout history, animal bones, particularly the shoulder blade, have been used like a shovel.",
+        "There are examples of screwdrivers being used in both Germany and France during the 15th century.",
+        "Screwdrivers were not popular until the industrial revolution.",
+        "Archeological evidence shows nails were used in Ancient Egypt around 3400 B.C.",
+        "A 2D nail is 1 inch longer.",
+        "Penny sizes for nails originated in England where merchants would price their nails according to their length.",
+        "The length of nails produced and sold in the United States is measured in \"pennies\".",
+        "To protect against corrosion, nails are often galvanized during production.",
+        "A nail-making machine can produce between 500 to 700 nails per minute.",
+        "Between the 1790s and the early 1800s, various machines were invented for making nails from iron bars.",
+        "In the United States, homeowners spend roughly 30 billion dollars per year on their lawns.",
+        "One out of every five homeowners rely on a lawn care professional to take care of their lawn care and landscaping needs.",
+        "There's a museum dedicated to the lawn mower, the British Lawnmower Museum, in Great Britain.",
+        "The first lawn mower was invented by and Englishman, Edwin Beard Budding and was patented in 1830.",
+        "The official demolition of the Berlin Wall began on 1990 and was completed in 1992.",
+        "The Great Wall of China is more than 2300 years old and more than 13170 miles long.",
+        "Human began building stone walls about 10000 years ago when farming began.",
+        "The world's tallest climbing wall is the 121ft Excalibur in the Netherlands.",
+        "To produce glass, sand is mixed with lime and soda ash and heated at extremely high temperatures.",
+        "As a result of high temperatures, glass can naturally form when sand is struck by lightening.",
+        "Glass windows were invented in the 17th century.",
+        "The \"portland vase\" is one of the most valuable glass art pieces in the world.",
+        "Glass can be recycled endlessly without losing any quality or purity.",
+        "Obsidian, a type of natural glass, can form when hot lava cools quickly after being expelled from a volcano.",
+        "Earliest known example of humanity using natural glues comes from 200000 years ago.",
+        "One square inch of super glue can hold around one ton.",
+        "Prehistoric hunters used natural glue to bind stone arrowheads or axe stones to wood.",
+        "First written record of glue comes from the Ancient Egypt.",
+        "First commercial glue plant was established in 1690 in Holland.",
+        "Glues have natural origin, while adhesives are synthetic.",
+        "Yoga is over 5000 years old and is one of the oldest known physical disciplines in the world.",
+        "In Sanskrit, the word 'Yoga', means 'union' or 'to unite'.",
+        "In the United States, up until 1937, yoga was a male-only practice.",
+        "Batteries can be made from food.",
+        "Every year, over 15 billion batteries are produced and sold around the world.",
+        "Batteries have their own National Day! Celebrated every year on February 18th.",
+        "The very first battery was invented all the way back in 1799 by Italian inventor, Alessandro Volta.",
+        "6000 years ago, the first stairs were created with tree trunks.",
+        "Stairs were installed in The White House in 1948.",
+        "In castles, spiral staircases always travel clockwise.",
+        "An elephant has climbed the Eiffel Tower.",
+        "The practice of giving vases as trophies is one which dates back to Ancient Greece.",
+        "The oldest vases which have survived into the present day date back as far as the Bronze Age.",
+        "The very first vases we know about weren't decorative at all, but rather used for storage.",
+        "The first known revolving wheels used for the creation of vases have been found in Mesopotamia and date back to 3000 BC.",
+        "Natural rubber comes from the sap of the Hevea Brasiliensis tree.",
+        "Christopher Columbus first witnessed natives in Haiti playing with a rubber ball in 1495.",
+        "The first people to use rubber were the natives of Central America, which made rubber balls and boots around 1600 BC.",
+        "In the late 18th century, rubber used to erase marks came about by accident."
+    ],
+    "curiosity_tags": [
+        [
+            "invention",
+            "roman empire",
+            "tool",
+            "hammer",
+            "plain"
+        ],
+        [
+            "invention",
+            "egypt",
+            "saw",
+            "tool",
+            "set-square"
+        ],
+        [
+            "tool",
+            "15th century",
+            "screwdriver"
+        ],
+        [
+            "invention",
+            "20th century",
+            "new york",
+            "1918",
+            "torque wrench",
+            "tool"
+        ],
+        [
+            "tool",
+            "agriculture",
+            "seed",
+            "tools agriculture"
+        ],
+        [
+            "saw",
+            "tool",
+            "seed",
+            "tools agriculture",
+            "volcanic glass",
+            "glass",
+            "hand tool",
+            "hammer",
+            "screwdriver",
+            "tools home"
+        ],
+        [
+            "scissors",
+            "tool",
+            "1761"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "20th century",
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "invention",
+            "20th century",
+            "pigment",
+            "1949",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "united states",
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "brush",
+            "paint"
+        ],
+        [
+            "roman empire",
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "purple",
+            "shells",
+            "mollusk shells",
+            "brush",
+            "paint"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "purple",
+            "brush",
+            "paint"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "2004",
+            "oil",
+            "color",
+            "acrylic",
+            "greenland",
+            "red",
+            "brush",
+            "paint"
+        ],
+        [
+            "color wheel",
+            "pigment",
+            "spray",
+            "painting",
+            "1706",
+            "oil",
+            "color",
+            "18th century",
+            "acrylic",
+            "newton",
+            "brush",
+            "paint"
+        ],
+        [
+            "pigment",
+            "michelangelo",
+            "16th century",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "sistine chapel",
+            "brush",
+            "paint"
+        ],
+        [
+            "20th century",
+            "pigment",
+            "michelangelo",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "acrylic",
+            "sistine chapel",
+            "brush",
+            "paint"
+        ],
+        [
+            "house",
+            "home"
+        ],
+        [
+            "house",
+            "home"
+        ],
+        [
+            "house",
+            "humidity",
+            "home",
+            "temperature"
+        ],
+        [
+            "house",
+            "home"
+        ],
+        [
+            "diy"
+        ],
+        [
+            "diy"
+        ],
+        [
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "home",
+            "acrylic",
+            "house",
+            "brush",
+            "paint"
+        ],
+        [
+            "tool",
+            "pencil",
+            "england"
+        ],
+        [
+            "mona lisa",
+            "pigment",
+            "spray",
+            "painting",
+            "oil",
+            "color",
+            "brush",
+            "acrylic",
+            "leonardo da vinci",
+            "paint"
+        ],
+        [
+            "japanese",
+            "diy",
+            "chinese",
+            "homemade",
+            "candle"
+        ],
+        [
+            "machine",
+            "sewing machine",
+            "1790",
+            "18th century"
+        ],
+        [
+            "christmas",
+            "presents",
+            "diy",
+            "sellotape"
+        ],
+        [
+            "paper",
+            "project",
+            "diy",
+            "card"
+        ],
+        [
+            "2010",
+            "diy",
+            "quilter"
+        ],
+        [
+            "glue",
+            "super glue",
+            "diy"
+        ],
+        [
+            "16th century",
+            "male",
+            "diy",
+            "knitting"
+        ],
+        [
+            "invention",
+            "16th century",
+            "knitting machine",
+            "machine",
+            "1589"
+        ],
+        [
+            "knitting",
+            "diy",
+            "needle",
+            "tortoise shell",
+            "bones"
+        ],
+        [
+            "paper",
+            "origami",
+            "paper folding",
+            "japanese"
+        ],
+        [
+            "paper",
+            "invention",
+            "chinese",
+            "diy"
+        ],
+        [
+            "paper",
+            "origami",
+            "diy",
+            "religion"
+        ],
+        [
+            "paper",
+            "origami",
+            "1797",
+            "18th century"
+        ],
+        [
+            "paper",
+            "origami",
+            "11/11",
+            "november"
+        ],
+        [
+            "paper",
+            "origami",
+            "origami crane",
+            "diy"
+        ],
+        [
+            "grass"
+        ],
+        [
+            "grass"
+        ],
+        [
+            "grass",
+            "lawn"
+        ],
+        [
+            "grass",
+            "lawn"
+        ],
+        [
+            "thatch",
+            "stone",
+            "roof tiles",
+            "clay",
+            "roof"
+        ],
+        [
+            "clay tiles",
+            "roof tiles",
+            "roof"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "garden",
+            "sunflower"
+        ],
+        [
+            "garden"
+        ],
+        [
+            "garden"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ],
+        [
+            "ALL"
+        ]
+    ],
+    "curiosity_len_phrases": [
+        13,
+        13,
+        11,
+        18,
+        13,
+        11,
+        14,
+        10,
+        9,
+        9,
+        7,
+        7,
+        11,
+        17,
+        18,
+        20,
+        9,
+        18,
+        15,
+        16,
+        15,
+        20,
+        15,
+        11,
+        15,
+        8,
+        9,
+        11,
+        15,
+        10,
+        18,
+        13,
+        15,
+        17,
+        12,
+        8,
+        13,
+        14,
+        8,
+        15,
+        19,
+        5,
+        17,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        10,
+        10,
+        14,
+        14,
+        10,
+        15,
+        12,
+        12,
+        11,
+        12,
+        16,
+        10,
+        13,
+        8,
+        13,
+        15,
+        5,
+        15,
+        12,
+        19,
+        19,
+        11,
+        18,
+        20,
+        14,
+        18,
+        10,
+        7,
+        9,
+        11,
+        14,
+        14,
+        10,
+        8,
+        8,
+        12,
+        10,
+        16,
+        11,
+        8,
+        8,
+        7,
+        9,
+        12,
+        11,
+        15,
+        14,
+        13,
+        15,
+        20,
+        7,
+        7,
+        19,
+        17,
+        16,
+        11,
+        11,
+        17,
+        11,
+        6,
+        9,
+        17,
+        12,
+        10,
+        21,
+        20,
+        10,
+        18,
+        7,
+        9,
+        10,
+        13,
+        13,
+        20,
+        8,
+        10,
+        10,
+        12,
+        10,
+        12,
+        13,
+        10,
+        9,
+        17,
+        14,
+        11,
+        11,
+        9,
+        9,
+        12,
+        8,
+        7,
+        11,
+        12,
+        12,
+        16,
+        12,
+        11,
+        11,
+        7,
+        15,
+        12,
+        10,
+        7,
+        12,
+        7,
+        19,
+        14,
+        14,
+        7,
+        14,
+        8,
+        8,
+        7,
+        10,
+        7,
+        16,
+        17,
+        7,
+        6,
+        13,
+        7,
+        14,
+        14,
+        12,
+        12,
+        5,
+        17,
+        11,
+        15,
+        14,
+        8,
+        13,
+        8,
+        13,
+        18,
+        13,
+        15,
+        11,
+        7,
+        5,
+        8,
+        14,
+        9,
+        16,
+        20,
+        17,
+        13,
+        14,
+        10,
+        14,
+        15,
+        7,
+        7,
+        19,
+        17,
+        18,
+        13,
+        11,
+        16,
+        18,
+        12,
+        10,
+        12,
+        17,
+        8,
+        18,
+        9,
+        13,
+        17,
+        19,
+        15,
+        17,
+        8,
+        7,
+        10,
+        8,
+        12,
+        14,
+        16,
+        15,
+        12,
+        15,
+        12,
+        9,
+        15,
+        21,
+        18,
+        20,
+        14,
+        11,
+        14,
+        9,
+        15,
+        12,
+        9,
+        15,
+        12,
+        8,
+        12,
+        7,
+        12,
+        8,
+        17,
+        10,
+        9,
+        19,
+        17,
+        9,
+        10,
+        16,
+        11,
+        5,
+        17,
+        10,
+        11,
+        10,
+        11,
+        14,
+        17,
+        10,
+        8,
+        9,
+        16,
+        13,
+        17,
+        14,
+        17,
+        17,
+        23,
+        12,
+        11,
+        10,
+        13,
+        14,
+        16,
+        8,
+        12,
+        7,
+        17,
+        15,
+        10,
+        12,
+        17,
+        15,
+        22,
+        15,
+        17,
+        15,
+        17,
+        12,
+        12,
+        17,
+        16,
+        8,
+        15,
+        11,
+        19,
+        13,
+        11,
+        14,
+        10,
+        10,
+        8,
+        18,
+        10,
+        12,
+        6,
+        13,
+        12,
+        17,
+        11,
+        9,
+        7,
+        7,
+        15,
+        18,
+        16,
+        22,
+        11,
+        14,
+        21,
+        14
+    ],
+    "keyword_2_curiosityId": {
+        "invention": [
+            0,
+            1,
+            3,
+            11,
+            35,
+            38
+        ],
+        "roman empire": [
+            0,
+            13
+        ],
+        "tool": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            26
+        ],
+        "hammer": [
+            0,
+            5
+        ],
+        "plain": [
+            0
+        ],
+        "egypt": [
+            1
+        ],
+        "saw": [
+            1,
+            5
+        ],
+        "set-square": [
+            1
+        ],
+        "15th century": [
+            2
+        ],
+        "screwdriver": [
+            2,
+            5
+        ],
+        "20th century": [
+            3,
+            9,
+            11,
+            18
+        ],
+        "new york": [
+            3
+        ],
+        "1918": [
+            3
+        ],
+        "torque wrench": [
+            3
+        ],
+        "agriculture": [
+            4
+        ],
+        "seed": [
+            4,
+            5
+        ],
+        "tools agriculture": [
+            4,
+            5
+        ],
+        "volcanic glass": [
+            5
+        ],
+        "glass": [
+            5
+        ],
+        "hand tool": [
+            5
+        ],
+        "tools home": [
+            5
+        ],
+        "scissors": [
+            6
+        ],
+        "1761": [
+            6
+        ],
+        "pigment": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "spray": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "painting": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "oil": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "color": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "acrylic": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "brush": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "paint": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            27
+        ],
+        "1949": [
+            11
+        ],
+        "united states": [
+            12
+        ],
+        "purple": [
+            13,
+            14
+        ],
+        "shells": [
+            13
+        ],
+        "mollusk shells": [
+            13
+        ],
+        "2004": [
+            15
+        ],
+        "greenland": [
+            15
+        ],
+        "red": [
+            15
+        ],
+        "color wheel": [
+            16
+        ],
+        "1706": [
+            16
+        ],
+        "18th century": [
+            16,
+            29,
+            40
+        ],
+        "newton": [
+            16
+        ],
+        "michelangelo": [
+            17,
+            18
+        ],
+        "16th century": [
+            17,
+            34,
+            35
+        ],
+        "sistine chapel": [
+            17,
+            18
+        ],
+        "house": [
+            19,
+            20,
+            21,
+            22,
+            25
+        ],
+        "home": [
+            19,
+            20,
+            21,
+            22,
+            25
+        ],
+        "humidity": [
+            21
+        ],
+        "temperature": [
+            21
+        ],
+        "diy": [
+            23,
+            24,
+            28,
+            30,
+            31,
+            32,
+            33,
+            34,
+            36,
+            38,
+            39,
+            42
+        ],
+        "pencil": [
+            26
+        ],
+        "england": [
+            26
+        ],
+        "mona lisa": [
+            27
+        ],
+        "leonardo da vinci": [
+            27
+        ],
+        "japanese": [
+            28,
+            37
+        ],
+        "chinese": [
+            28,
+            38
+        ],
+        "homemade": [
+            28
+        ],
+        "candle": [
+            28
+        ],
+        "machine": [
+            29,
+            35
+        ],
+        "sewing machine": [
+            29
+        ],
+        "1790": [
+            29
+        ],
+        "christmas": [
+            30
+        ],
+        "presents": [
+            30
+        ],
+        "sellotape": [
+            30
+        ],
+        "paper": [
+            31,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+        ],
+        "project": [
+            31
+        ],
+        "card": [
+            31
+        ],
+        "2010": [
+            32
+        ],
+        "quilter": [
+            32
+        ],
+        "glue": [
+            33
+        ],
+        "super glue": [
+            33
+        ],
+        "male": [
+            34
+        ],
+        "knitting": [
+            34,
+            36
+        ],
+        "knitting machine": [
+            35
+        ],
+        "1589": [
+            35
+        ],
+        "needle": [
+            36
+        ],
+        "tortoise shell": [
+            36
+        ],
+        "bones": [
+            36
+        ],
+        "origami": [
+            37,
+            39,
+            40,
+            41,
+            42
+        ],
+        "paper folding": [
+            37
+        ],
+        "religion": [
+            39
+        ],
+        "1797": [
+            40
+        ],
+        "11/11": [
+            41
+        ],
+        "november": [
+            41
+        ],
+        "origami crane": [
+            42
+        ],
+        "grass": [
+            43,
+            44,
+            45,
+            46
+        ],
+        "lawn": [
+            45,
+            46
+        ],
+        "thatch": [
+            47
+        ],
+        "stone": [
+            47
+        ],
+        "roof tiles": [
+            47,
+            48
+        ],
+        "clay": [
+            47
+        ],
+        "roof": [
+            47,
+            48
+        ],
+        "clay tiles": [
+            48
+        ],
+        "ALL": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331
+        ],
+        "garden": [
+            63,
+            64,
+            65
+        ],
+        "sunflower": [
+            63
+        ]
+    }
+}

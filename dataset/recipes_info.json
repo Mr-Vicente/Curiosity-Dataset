@@ -1,0 +1,137 @@
+{
+  "traditional_food": {
+    "american":[
+      "reuben sandwish",
+      "turkey",
+      "apple pie",
+      "hot dog",
+      "nachos",
+      "cheese steak",
+      "blueberry cobbler",
+      "chocolate chip cookies",
+      "frito pie",
+      "barbecue ribs",
+      "buffalo wings",
+      "lobster rolls",
+      "baked beans",
+      "potato chips",
+      "macaroni and cheese"
+    ],
+    "italian": [
+      "pizza",
+      "pasta",
+      "tomato",
+      "bolognese sauce",
+      "pesto"
+    ],
+    "mexican": [
+      "tacos",
+      "nachos",
+      "hot",
+      "spice"
+    ],
+    "japanese": [
+      "sushi",
+      "tempura",
+      "sticks",
+      "soy",
+      "sashimi",
+      "raw fish",
+      "futomaki",
+      "noodle"
+    ],
+    "indian":[
+      "spicy",
+      "kebab",
+      "curry"
+    ]
+  },
+  "general_food": [
+    "food",
+    "meal",
+    "fish",
+    "meat",
+    "dinner",
+    "lunch",
+    "breakfast"
+  ],
+  "holiday_food":  {
+    "thanksgiving":[
+      "turkey"
+    ],
+    "christmas": [
+      "cookie",
+      "turkey"
+    ]
+  },
+  "event": {
+    "cinema": [
+      "popcorn",
+      "appetizer",
+      "snack",
+      "soda",
+      "sugar",
+      "butter",
+      "salt",
+      "sweet"
+    ]
+  },
+  "food": {
+    "citrus": [
+      "orange",
+      "lemon",
+      "vitamin c",
+      "clementine",
+      "lime",
+      "grapefruit",
+      "pepper"
+    ],
+    "fruit": [
+      "orange",
+      "lime",
+      "coconut",
+      "apple",
+      "pear",
+      "lemon",
+      "watermelon",
+      "melon",
+      "peach",
+      "banana",
+      "bayberry",
+      "avocado",
+      "figs",
+      "pineaples",
+      "fruit salad"
+    ],
+    "meat": [
+      "ribs",
+      "pork",
+      "bovine",
+      "horse",
+      "hamburguer",
+      "burguer"
+    ]
+  },
+  "animal": {
+    "cow":[
+      "animal",
+      "milk",
+      "meat",
+      "milking",
+      "beef",
+      "bovine",
+      "buffalo",
+      "bull",
+      "bulls",
+      "dairy",
+      "calf",
+      "hamburger",
+      "herbivore",
+      "mammal"
+    ],
+    "pork": [
+      "bacon",
+      "ham"
+    ]
+  }
+}

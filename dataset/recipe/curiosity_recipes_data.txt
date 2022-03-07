@@ -1,0 +1,457 @@
+America's first chocolate cake was mahogany cake.<sep>chocolate cake<sep>mahogany cake
+
+The first meal eaten on the moon included bacon.<sep>bacon
+
+Neil Armstrong and Buzz Aldrin ate bacon squares, peaches, coffee, among other stuff after their moon landing in 1969.<sep>bacon<sep>sugar cookie<sep> drink<sep>coffee<sep>peach
+
+The first St. Louis Gooey Butter Cake was made from a mistake.<sep>butter cake<sep>st. louis gooey butter cake<sep>butter
+
+Back in the day, most carrots were purple.<sep>carrot<sep>vegatable
+
+In the late 1970s, Onion Nuggets were tested in a few McDonald's markets but never had great success.<sep>nugget<sep>onion<sep>chicken
+
+Graham crackers were created in the 1800s as a way to prevent sexual urges.<sep>crackers
+
+Pound cake got its name because the original 1795 recipe contained 1 pound of each main ingredient.<sep>cake<sep>pound cake
+
+PEZ were originally invented as anti-smoking mints.<sep>pez<sep>mint<sep>smoking<sep>smoke<sep>tabacco
+
+PEZ is a shortened version of the German word (Pfefferminz), which means peppermint.<sep>pez<sep>mint<sep>smoking<sep>smoke<sep>tabacco<sep>peppermint
+
+On British Evacuation Day in 1783, George Washington feasted on a carrot cake.<sep>cake<sep>carrot<sep>carrot cake<sep>salad<sep>bunny
+
+Brussels sprouts, kale, broccoli, cabbage, cauliflower, and kohlrabi all come from the same plant.<sep>brussels sprouts<sep>kale<sep>cabbage<sep>cauliflower<sep>kohlrabi<sep>salad<sep>vegetarian
+
+Pasta is not Italian. Marco Polo brought it to Venice from China.<sep>italian food<sep>pasta<sep>italian cuisine
+
+The oldest type of pasta (noodle) is four thousand years old and used to be made out of millet.<sep>italian food<sep>pasta<sep>noodle<sep>millet<sep>italian cuisine
+
+Pasta was a common side dish during the Middle Ages and Renaissance, even in Italy. However, it wasn't until recently that it became a staple of Italian cuisine.<sep>italian food<sep>pasta<sep>noodle<sep>millet<sep>italian cuisine
+
+Pasta became a popular main dish in Naples in the 17th Century.<sep>italian food<sep>pasta<sep>noodle<sep>millet<sep>italian cuisine
+
+Pizza Margherita was a 19th Century invention and was named after Italy’s queen in 1889.<sep>italian food<sep>pizza<sep>baker<sep>millet<sep>italian cuisine
+
+Pizza Margherita was initially created to feature Italy’s colours and was prepared for Queen Margherita in 1889.<sep>italian food<sep>pizza<sep>baker<sep>millet<sep>italian cuisine
+
+The Spanish were the first to use tomatoes to make sauces. They were then followed by the Italians. Tomato sauce was often used to accompany meat or fish dishes.<sep>sauce<sep>tomato<sep>tomato sauce<sep>meat<sep>fish
+
+A single cargo ship in the 2nd Century, bringing black pepper from India to Europe would pay the annual salary of around 7000 soldiers. That’s how expensive pepper was!<sep>pepper<sep>black pepper<sep>hamburger
+
+Salt used to be a trading currency back in the day. Salary, in latin, derives from the word salt.<sep>salt<sep>fish<sep>meat<sep>popcorns<sep>salad<sep>rice<sep>pasta
+
+When tomatoes were brought to Europe (during the Columbian Exchange), their only use was decorative.<sep>tomato<sep>pizza<sep>salad
+
+Chilli peppers come from Mesoamerica and were brought to Europe during the Columbian Exchange.<sep>chilli pepper
+
+Before the 17th Century, spices were scarce, expensive, and only belonged to the ruling classes.<sep>spice<sep>meat<sep>fish<sep>barbecue
+
+Ancient Greeks used oyster shells to cast some votes. In trials, the jury would write the verdict onto the shell of an oyster.<sep>oyster<sep>shell
+
+Ancient Greeks used oyster shells at trials, which gave origin to the word 'ostracise' ('ostreon' is the ancient Greek word for 'oyster').<sep>oyster<sep>shell
+
+In 1516, Bavaria instated 'Reinheitsgebot', a purity law that allowed beer to be made using only water, barley and hops.<sep>beer<sep>water<sep>barley<sep>hops
+
+In 1516, Bavaria regulated a beer manifacturing law to avoid poisonous ingredients, which was one of the very first food safety laws in history.<sep>beer<sep>water<sep>barley<sep>hops<sep>plants
+
+During the 19th Century, the English set harsh and restrictive controls over the Irish food supply, leaving the Irish to eat almost exclusively potatoes.<sep>potatoe
+
+China is the world’s largest carrot producer.<sep>carrot<sep>salad<sep>chinese<sep>vegetable
+
+During WWII the Brits made the Germans believe that their pilots could see in the dark thanks to a carrot-heavy diet.<sep>carrot<sep>salad<sep>diet
+
+Fried chicken became popular in Southern US after the Emancipation Proclamation of 1863.<sep>chicken<sep>fried<sep>fast food
+
+The first hot chicken establishment opened in a black neighbourhood in Nashville in 1945.<sep>chicken<sep>fried<sep>fast food
+
+Prison food is the term for meals served to prisoners.<sep>food<sep>meal<sep>meat<sep>fish
+
+Seasonal food refers to the times of the year when the harvest or the flavor of a given type of food is at its peak.<sep>food<sep>fruit<sep>plant<sep>vegetarian
+
+Shelf-stable food is a type of food that can be safely stored at room temperature in a sealed container.<sep>food<sep>cookie<sep>sweet<sep>biscuit<sep>american biscuit<sep>chip<sep>chocolate chip<sep>jar<sep>peanut<sep>snack<sep>tea<sep>cracker
+
+Space food is a type of food product created and processed for consumption by astronauts in outer space.<sep>food<sep>small<sep>portion<sep>pizza<sep>breakfast<sep>lunch
+
+Traditional foods are foods and dishes that are passed through generations.<sep>food<sep>cozy<sep>portion<sep>pizza<sep>breakfast<sep>lunch<sep>dinner<sep>thanksgiving<sep>apple pie<sep>hamburguer<sep>french fries<sep>turkey<sep>cheeseburger<sep>reuben sandwish
+
+Humans have five different types of tastes: sweet, sour, salty, bitter, and umami.<sep><general_food><sep>sweet<sep>sour<sep>salty<sep>bitter<sep>umami
+
+Many scholars claim that the rhetorical function of food is to represent the culture of a country, and that it can be used as a form of communication.<sep><general_food>
+
+About 2% of adults and 8% of children have a food allergy.<sep><general_food><sep><food fruit>
+
+Common food allergens are gluten, corn, shellfish, peanuts, and soy.<sep>gluten<sep>corn<sep>shellfish<sep>peanut<sep>soy
+
+The Chinese beer market is the largest in the world.<sep>chinese<sep>beer<sep>alchool
+
+The oldest beer recipe in the world dates back to 1800 before christ in Mesopotamia.<sep>recipe<sep>beer<sep>mesopotamian<sep>1800 before christ
+
+Curry houses started to bloom in the UK when in 1948 Britain passed a law allowing all Commonwealth citizens to work in the UK.<sep>curry<sep>english<sep><traditional_food indian>
+
+In Australia, there are fruit salad trees, which can grow up to six different type of fruits.<sep>australian<sep><food fruit>
+
+Cookie Monster's cookies are actually painted rice cakes, in the show.<sep>cookie<sep>rice cake<sep>sweet
+
+Pineaples can take two to three years to grow.<sep><food fruit>
+
+Peppers have more vitamin C than oranges and the amount depends on its color.<sep><food citrus>
+
+Limes are denser than lemons, therefore limes sink on water, whereas lemons don't.<sep>water<sep><food citrus>
+
+A single spaghetti noodle is called a spaghetto.<sep><traditional_food italian>
+
+Broccoli contains more protein than steak.<sep><animal cow><sep>brocoli<sep>vegetable
+
+Apples provide more energy than coffee.<sep>coffee<sep><food fruit>
+
+Brussels sprouts, even though not beloved by many, is one of the more nutritious vegetable.<sep>brussels sprouts<sep>vegetable
+
+Avocados and Pistachios are fruits.<sep><food fruit>
+
+Americans eat approximately 20 million hot dogs a year, just on baseball games.<sep>junk food<sep>american
+
+Drinking water can help losing weight and reduce heart diseases.<sep>water<sep><general_food>
+
+Cucumbers can help with fogging windows, by rubbing them against the glass. It also provides a spa-like fragrance.<sep>
+
+Bananas can float in water.<sep><food fruit><sep>water
+
+Humans share about 50% or more of their DNA with bananas.<sep><food fruit>
+
+The most expensive pizza in the world costs 12000 dollars.<sep><traditional_food italian>
+
+One fast food burger can have meat from 100 different cows.<sep>junk food<sep><animal cow>
+
+Fruit flavored snacks shine because of car wax.<sep><food fruit>
+
+Crackers have holes in them to not suffer shape metamorphosis during baking.<sep>crackers<sep>cookies<sep>salt<sep>sugar
+
+In the 19th century ketchup used to be used as a medicine.<sep>19th century<sep>ketchup<sep>junk food<sep><traditional_food italian>
+
+Crackers are worse for the teeth's health than sugar.<sep>crackers<sep>cookies<sep>salt<sep>sugar
+
+There's a chemical in chili peppers called capsaicin that tricks your mouth into feeling like it's being burned<sep>chili pepper<sep>hot<sep>spicy
+
+American cheese is not actually American.<sep>cheese<sep>goat<sep>american
+
+Cheese is the most stolen food in the world.<sep>cheese<sep>goat
+
+One in four hazelnuts ends up in Nutella.<sep>chocolate<sep>hazelnuts<sep>nutella
+
+A corned beef sandwich has once been smuggled into space by an astronaut.<sep>sandwich<sep>beef sandwich<sep>beef
+
+Chocolate has once been used as a currency in ancient civilizations, such as Mexico and South America.<sep>chocolate<sep>mexican<sep>american
+
+McDonald's sells about 2.5 billion hamburgers every year.<sep><animal cow><sep>junk food
+
+Expiration dates on bottled water have nothing to do with the water, but rather to the bottles themselves.<sep>water<sep><general_food>
+
+Honey can be considered as bee vomit.<sep>honey<sep>sweet
+
+Himalayan salt, also known as pink salt, is a rock salt mined from the Punjab region of Pakistan.<sep>salt<sep>pink salt<sep>pakistanian
+
+Pesto is a sauce from Genoa, Italy.<sep><traditional_food italian>
+
+In Britain, eggnog was originally popular among the aristocracy since milk, eggs, and sherry were foods of the wealthy.<sep>english<sep>eggnog<sep>milk<sep>egg<sep>sherry
+
+The first chocolate drink is believed to have been created by the Maya around 2500 to 3000 years ago.<sep>chocolate
+
+Tom and Jerry drink was a favorite of President Warren G. Harding, who served it at an annual Christmas party for his closest friends.<sep>tom and jerry<sep>tom and jerry drink<sep><holiday_food christmas>
+
+An early recipe of mashed potatos can be found found in Hannah Glasse's The Art of Cookery, in 1747.<sep>cookies<sep>mashed potatos<sep>potatos<sep>recipe
+
+The earliest examples of Christmas cookies in the United States were brought by the Dutch in the early 17th century.<sep><holiday_food christmas><sep>american<sep>dutch
+
+A reason for the common name Russian Tea Cake or any connection to Russian cuisine is unknown.<sep>tea<sep>russian<sep>american<sep>cake<sep>russian tea cake
+
+The Thanksgiving holiday's history in North America is rooted in English traditions dating from the Protestant Reformation.<sep><holiday_food thanksgiving>
+
+According to FDA, food is allowed to contain some level of traces from insects.<sep><general_food>
+
+Coffee beans can help eliminate bad breath.<sep>coffee<sep>desert
+
+Food can taste differently when in an airplane or flying in general.<sep><general_food>
+
+Figs can sometimes contain dead wasps.<sep><food fruit>
+
+Potatoes are about 80% of water.<sep>potato<sep>water
+
+According to a 2014's study, 49% of Americans over 20 eat a sandwich every day.<sep>american<sep>sandwich
+
+Turkey is the country with the most amount of tea consumption per person.<sep>turkish<sep>tea
+
+The Netherlands drinks the most coffee per person.<sep>coffee<sep>dutch<sep>drink
+
+In Colombia, dried ants is the popular snack option when going to the movies.<sep>colombian<sep><event cinema>
+
+In Korea, dried cuttlefish is the popular snack option when going to the movies.<sep>korean<sep><event cinema>
+
+In China, dried salted plums is the popular snack option when going to the movies.<sep>chinese<sep><event cinema>
+
+Tonic water glows in the dark.<sep>alchool<sep>tonic water
+
+India has the lowest meat consumption in the world.<sep>indian<sep>meat
+
+Nutritious food is generally more expensive than junk food.<sep><general_food>
+
+Fortune cookies are actually not Chinese, but rather American.<sep>chinese<sep>american<sep>fortune cookies<sep>cookies
+
+You could survive only by drinking breast milk.<sep><animal cow>
+
+The amount of Nutella sold every year, could cover the world 1.8 times.<sep>chocolate<sep>nutella
+
+Goat meat accounts for 70% of the red meat eaten globally, making it the more popular meat.<sep>red meat<sep>meat<sep>goat meat<sep>goat
+
+Throwing food away is illegal in Seattle.<sep><general_food><sep>seattle
+
+Astronauts ate food grown in space for the first time in 2015.<sep><general_food><sep>space<sep>2015
+
+In the united states of america 40% of food produce grown is never sold just because it’s too ugly.<sep>united states<sep><general_food><sep><food fruit>
+
+Australians eat the most meat.<sep>australia<sep>meat<sep><animal cow><sep><animal pork>
+
+Americans eat around 500 million pounds of peanut butter each year.<sep>peanut butter<sep>butter<sep>united states
+
+There are more Indian restaurants in London than in Mumbai or Delhi.<sep><traditional_food indian>
+
+The original Margherita pizza was color-coded.<sep><traditional_food italian><sep>margherita pizza
+
+Not eating before bed burns fat.<sep><general_food>
+
+The Domino's co-founder traded his shares for a Volkswagen, while the other many years after for one billion dollars.<sep><traditional_food italian>
+
+Water requirements for growing avocados are three times higher than for apples, and 18 times higher than for tomatoes.<sep><traditional_food italian><sep><food fruit>
+
+Production and consumption of rice is estimated to have been responsible for 4% of global greenhouse gas emissions in 2010.<sep>rice
+
+Oryza sativa, rice was first domesticated in the Yangtze River basin in China 13500 to 8200 years ago.<sep>rice<sep>china<sep>chinese
+
+China and India are the two main producers of rice summing up to around 400 million tonnes of rice produced.<sep>china<sep>india<sep>rice<sep>chinese<sep>indian
+
+Sushi as it is known these days is only 200 years old.<sep><traditional_food japanese>
+
+Futomaki is a more popular variation of sushi within the United States.<sep><traditional_food japanese><sep>united states
+
+Sustainable sushi is made from fished or farmed sources that can be maintained or whose future production does not significantly jeopardize the ecosystems from which it is acquired.<sep><traditional_food japanese><sep>sustainability
+
+Sushi is sometimes confused with sashimi, a related dish in Japanese cuisine that consists of thinly sliced raw fish or occasionally meat.<sep><traditional_food japanese>
+
+China is the largest consumer of rice.<sep>rice<sep>china
+
+With the worldwide demand for pasta, it is now largely mass-produced in factories and only a tiny proportion is crafted by hand.<sep><traditional_food italian>
+
+In Sweden, spaghetti is traditionally served with Bolognese sauce, which is minced meat in a thick tomato soup.<sep><traditional_food italian><sep>sweden
+
+The two largest producers of dried pasta are the United States and Italy.<sep><traditional_food italian><sep>United States<sep>Italy
+
+In the 1497, the expedition to India by the portuguese, Vasco da Gama, revealed the curative effects of citrus fruit.<sep><food citrus><sep><general_food>
+
+Fruits are also used for socializing and gift-giving in the form of fruit baskets and fruit bouquets.<sep><food fruit>
+
+Fruit allergies make up about 10 percent of all food related allergies.<sep><food fruit><sep><food citrus><sep><general_food>
+
+Osage orange fruits are used to repel cockroaches.<sep><food fruit><sep><food citrus>
+
+Pumpkins are carved into Jack-o lanterns for Halloween.<sep><food fruit>
+
+Fruit is often a subject of still life paintings.<sep><food fruit>
+
+Bayberry fruits provide a wax often used to make candles.<sep><food fruit>
+
+Many dry fruits are used as decorations or in dried flower arrangements.<sep><food fruit>
+
+Many fruits provide natural dyes.<sep><food fruit>
+
+The coconut palm is one of the most useful trees in the world.<sep>fruit<sep>coconut
+
+According to an urban legend, more deaths are caused by falling coconuts than by sharks annually.<sep>fruit<sep>coconut
+
+The edible white, fleshy part of the coconut seed is known as the coconut meat.<sep>fruit<sep>coconut
+
+Indonesia is the world's largest producer of coconuts, with gross production of around 15 million tonnes.<sep>fruit<sep>coconut
+
+Coconut palms are normally cultivated in hot and wet tropical climates.<sep>fruit<sep>coconut
+
+Vitamin C was discovered in 1912<sep><food citrus>
+
+Vitamin C was the first vitamin to be synthesized.<sep><food citrus>
+
+A house cow is a cow kept to provide milk for a home kitchen.<sep><animal cow><sep>kitchen
+
+Dairy cows are a cattle bred for the ability to produce large quantities of milk, from which dairy products are made.<sep><animal cow>
+
+Milking machines were invented in 1984.<sep><animal cow><sep>1984
+
+Other than cows, water buffalo, camels, goats, sheep, horses and even reindeer are milked.<sep><animal cow>
+
+All 'cows' are female? Only males are called bulls.<sep><animal cow>
+
+A cow has 32 teeth.<sep><animal cow>
+
+A cow will spend about 8 hours a day eating.<sep><animal cow>
+
+Cows can see in color and can smell up to six miles away.<sep><animal cow>
+
+The word 'meat' comes from the Old English word 'mete', which referred to food in general.<sep><animal cow>
+
+Meat is mainly composed of water, protein, and fat.<sep><animal cow>
+
+The term hamburger originally derives from Hamburg, Germany‘s second-largest city.<sep><animal cow>
+
+Horses are commonly eaten in France, Italy, Germany and Japan, among other countries.<sep>horse<sep>meat<sep>french<sep>italian<sep>german<sep>japanese
+
+American Lobsters have longer life spans than both cats and dogs, living over 20 years.<sep>american<sep>American<sep>lobster
+
+Catfish have over 27,000 taste buds, whereas humans have only 9,000.<sep>fish<sep>catfish
+
+Croaker is the loudest fish that can be found.<sep>fish<sep>croaker
+
+Fish typically have quite small brains relative to body size, around 0.06 percent.<sep>fish
+
+Fish can get sunburn, however being unusual.<sep>fish
+
+Antarctic ice fish, which have antifreeze in their blood, live permanently at -1 degrees Celcius.<sep>ice fish<sep>fish
+
+Fish have a specialised sense organ, which works as a radar, helping them navigate in the dark.<sep>fish
+
+Only after 1853 in London with a deep understanding of aeration and filtration of water, were people able to keep fishes as pets.<sep>fish<sep>19th century<sep>water
+
+The word 'dessert' originated from the French word 'desservir', meaning 'to clear the table.'.<sep>desert<sep>sweet<sep>french
+
+Coke defined the visual appearence of Santa we know these days.<sep>christmas<sep>coke<sep>santa
+
+The Netherlands brought to world the concept of leaving cookies and milk for Santa.<sep>christmas<sep>cookies<sep>milk<sep>the netherlands
+
+'Jingle Bells' was originally a Thanksgiving song.<sep>thanksgiving<sep>christmas<sep>jingle bells<sep>song<sep>christmas
+
+During christmas season, ham and turkey usually reach the top of their popularity in the google search engine.<sep>christmas<sep>ham<sep>turkey<sep>google
+
+Candy Canes were once only white.<sep>sweet<sep>candy<sep>candy canes<sep>christmas
+
+Candy Canes have a German origin root, which gain popularity in the US in the 19th century.<sep>sweet<sep>candy<sep>candy canes<sep>christmas<sep>germany<sep>19th century
+
+Salad comes from the Latin word 'herba salta' or 'salted herbs', because it was usually seasoned with lots of salt.<sep>salad<sep>salt<sep>lettuce
+
+Christopher Columbus introduced lettuce to the Americas.<sep>history<sep>15th century<sep>lettuce<sep>salad<sep>americas<sep>christopher columbus
+
+Lettuce is the second most popular fresh vegetable in the US behind potatoes.<sep>potatoes<sep>lettuce<sep>salad<sep>vegetable
+
+China is the largest spinach producer in the world with 90% of global production.<sep>china<sep>spinach<sep>salad<sep>vegetable
+
+Iceberg lettuce got its name from the way it was shipped with ice in old train carriages.<sep>iceberg lettuce<sep>lettuce<sep>salad<sep>ice
+
+McDonald's salads are more rich in fat than their burgers.<sep>salad<sep>burger<sep>hamburger
+
+For a short time in the 90s, Caesar salad was made illegal in California because it contained raw egg.<sep>egg<sep>salad<sep>caesar salad<sep>1998<sep>california
+
+Humans are eating 900% more broccoli than they did 20 years ago.<sep>salad<sep>broccoli<sep>vegetable
+
+Cucumbers have the highest water content of any vegetable.<sep>cucumber<sep>salad<sep>water<sep>vegetable
+
+Leonardo da Vinci was the first artist to depict salad in his paintings.<sep>salad<sep>Leonardo da Vinci
+
+Mushrooms are more closely related to humans than to plants.<sep>mushrooms<sep>plants
+
+There is a wild mushroom that tastes nearly identical to chicken or fried chicken.<sep>chicken<sep>fried chicken<sep>wild mushroom<sep>mushrooms
+
+Brasil and Japan contain Chlorophos Mycena, fluorescent mushrooms, in their territory.<sep>mushrooms<sep>brasilian<sep>japanese
+
+Magic Mushrooms are called 'magic' for their psychedelic properties.<sep>mushrooms
+
+In the Middle Ages people thought mushrooms grew at night on the soil where witches had had a sabbath.<sep>mushrooms
+
+The most popular brand of dried pasta in Italy is Barilla.<sep>pasta<sep>italian<sep>dried pasta
+
+The first pasta factory in the US was built in Brooklyn.<sep>pasta<sep>brooklyn
+
+Most bakers prefer to use unsalted butter rather than regular butter.<sep>butter
+
+Butter color can depend on the cow's diet it was derived from.<sep>cow<sep>butter
+
+India is the largest producer of butter.<sep>butter<sep>indian
+
+Butter is a source of vitamin A, E, D, and K.<sep>butter<sep>vitamin
+
+Not all oranges are orange. Some are green or yellow when ripe.<sep>orange<sep>ripe
+
+Japanese Yubari cantaloupes are the most expensive fruit in the world.<sep>fruit<sep>melon<sep>yubari melons
+
+Two Yubari melons have once been sold at auction for 23500 dollars.<sep>fruit<sep>melon<sep>yubari melons<sep>23500 dollars
+
+Donut peaches are a natural mutant peach variety, not a human-engineered fruit.<sep>fruit<sep>peach<sep>donut peach
+
+Grapefruit can cause dangerous reactions with some prescription medications.
+
+Cranberries are a bouncy fruit.<sep>Cranberry<sep>fruit
+
+Cranberries don't actually grow underwater, only at harvest time are cranberry bogs artificially flooded with water.<sep>Cranberry<sep>fruit<sep>water
+
+The leaves of the rhubarb plant are extremely poisonous.<sep>rhubarb<sep>rhubarb plant<sep>leaf
+
+One pomegranate can hold more than 1000 seeds<sep>pomegranate<sep>fruit<sep>seed
+
+A strawberry isn't technically a berry, or even a fruit.<sep>fruit<sep>strawberry
+
+Bananas get artificially ripened (after being shipped) to one of seven 'shades' of ripeness.<sep>banana<sep>ripe<sep>fruit
+
+Apples float in water because they are 25% air.<sep>apple<sep>fruit<sep>water<sep>air
+
+Each pineapple plant only produces one pineapple per year.<sep>pineapple<sep>fruit
+
+Ancient herbarium list strawberries as a medicinal cure as early as the 13th century.<sep>fruit<sep>strawberry<sep>medicin
+
+The cacao bean is native to mexico and both central and south america.<sep>cacao<sep>chocolate<sep>cacao bean<sep>mexico<sep>south america<sep>central america
+
+Marie antoinette loved hot chocolate.<sep>hot chocolate<sep>chocolate<sep>marie antoinette
+
+Cacao beans was once used as currency by the Aztecs.<sep>cacao bean<sep>cacao<sep>chocolate<sep>aztecs<sep>currency
+
+Napolean demanded that wine and chocolate were made available to him and his senior advisers even during intense military campaigns.<sep>napolean<sep>chocolate<sep>wine
+
+Milk chocolate was invented in switzerland.<sep>milk chocolate<sep>chocolate<sep>switzerland
+
+It takes about 400 cacao beans to make a single pound of chocolate.<sep>cacao bean<sep>chocolate<sep>cacao
+
+Ancient Greeks used ovens mainly to make bread.<sep>ancient greeks<sep>bread<sep>oven
+
+An oven made specifically for use in metalwork is known as a furnace.<sep>oven<sep>furnace<sep>metalwork
+
+An oven made specifically to fire ceramics and other items is called a kiln.<sep>oven<sep>furnace<sep>metalwork
+
+−89.2 ºC or −128.6 °F is the coldest temperature ever recorded on Earth.<sep>−89.2 ºC.<sep>−128.6 ºF<sep>temperature
+
+Absolute zero is the coldest theoretical temperature corresponding to -459.69 degrees Fahrenheit.<sep>-459.69ºF<sep>temperature
+
+Only 51% of the proteins in raw eggs are digestible, while 91% of the proteins in cooked eggs are digestible.<sep>egg<sep>protein
+
+Eggshell colors have nothing to do with the flavor or nutritional value of the egg.<sep>egg<sep>eggshell
+
+To avoid teary eyes when cutting onions, cut them under cold running water, or briefly place them in the freezer before cutting.<sep>onion<sep>water
+
+Fresh lemon juice removes onion scent from hands.<sep>lemon<sep>lemon juice<sep>onion
+
+Whipped cream, with or without flavorings, was known as 'snow cream' or 'milk snow' until the 17th century.<sep>whipped cream<sep>17th century<sep>cream
+
+Fresh unpasteurised milk originates a fat layer, which when skimmed off is known as cream, often used in deserts.<sep>cream<sep>desert
+
+The average American eats 35000 cookies in a lifetime.<sep>cookie
+
+'Blonde brownies' are a variation of brownies flavored with brown sugar, rather than chocolate.<sep>brownie<sep>blondie<sep>chocolate<sep>brown sugar
+
+Pizzelle is the name of traditional italian waffle cookies.
+
+According to FDA regulation, peanut butter can only be called so, if it is made of at least 90% of peanuts.<sep>peanut butter
+
+Spices are highly rich in antioxidant.<sep>spice<sep>antioxidant
+
+Vitamin E is a powerful antioxidant often found in nuts, cereals and sweet potatoes.<sep>vitamin E<sep>antioxidant<sep>nut<sep>cereal<sep>sweet potatoe
+
+Studies suggest that blueberries contain the highest amount of antioxidants among all commonly consumed fruits and vegetables.<sep>antioxidant<sep>blueberry
+
+At first store-bought salad dressings were sold in wooden jars.<sep>salad dressings<sep>wooden jar
+
+A 2004 study showed that Russia is the only market in Europe where mayonnaise is sold more than ketchup by volume.<sep>mayonnaise<sep>ketchup<sep>russia<sep>europe
+
+A sauce which is based on one of the mother sauces is sometimes called a small sauce.<sep>sauce
+
+In the 20th century, the chef Auguste Escoffier defined 5 mother sauces: Sauce Béchamel, Sauce Velouté, Sauce Tomate, Sauce Espagnole and Sauce Hollandaise.<sep>sauce béchamel<sep>sauce velouté<sep>sauce tomate<sep>sauce espagnole<sep>sauce hollandaise

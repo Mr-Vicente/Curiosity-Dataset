@@ -1,0 +1,15 @@
+{
+  "starters": [ "Did you know that: ",
+                "As a matter of curiosity: ",
+                "It's interesting to know that: ",
+                "How crazy is that: ",
+                "Alert, alert fun fact time: ",
+                "Watch out! Curiosity coming through, did you know that: ",
+                "Do you believe that: ",
+                "Roses are red, violets are blue, here comes a curiosity just for you: ",
+                "Is it a bird? Is it a plane? No, it's a fun fact just for you: "
+              ],
+  "endings": [
+    "Interesting right?"
+  ]
+}

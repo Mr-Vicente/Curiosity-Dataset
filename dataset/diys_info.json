@@ -1,0 +1,21 @@
+{
+  "tools": {
+    "agriculture":[
+      "seed"
+    ],
+    "home": [
+      "hammer",
+      "screwdriver",
+      "saw"
+    ]
+  },
+  "painting": [
+    "color",
+    "pigment",
+    "paint",
+    "brush",
+    "acrylic",
+    "oil",
+    "spray"
+  ]
+}
