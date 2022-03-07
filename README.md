@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mr-Vicente/Curiosity-Dataset">
-    <img src="repo_images/curiosity_logo.png" alt="Logo" width="125" height="125">
+    <img src="repo_images/curiosity_logo.png" alt="Logo" height="200">
   </a>
 
   <h1 align="center">Curiosity Dataset</h1>
