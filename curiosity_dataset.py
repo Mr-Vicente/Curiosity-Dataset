@@ -1,5 +1,5 @@
 
-from general_utils import read_json_file_2_dict, Curiosity_Type
+from utils import read_json_file_2_dict, Curiosity_Type
 from typing import List, Dict
 
 class Curiosity_Dataset:

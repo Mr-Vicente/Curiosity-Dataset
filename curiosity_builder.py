@@ -8,9 +8,9 @@ import os
 # Remote modules
 
 # Local modules
-from general_utils import (read_json_file_2_dict,
-                        write_dict_2_json_file,
-                       Curiosity_Type)
+from utils import (read_json_file_2_dict,
+                   write_dict_2_json_file,
+                   Curiosity_Type)
 
 #############################
 #   Constants

@@ -4,7 +4,7 @@
 #############################
 
 # Python modules
-from typing import List, Tuple
+from typing import List
 from enum import Enum
 
 # Remote modules
@@ -14,8 +14,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Local modules
+import utils
 from curiosity_dataset import Curiosity_Dataset
-from general_utils import Curiosity_Type
+from utils import Curiosity_Type
 
 #############################
 #           Stuff
@@ -88,9 +89,11 @@ class Curiosity_Stats:
 
     @classmethod
     def create_mixture_phrase_length_violin_plot(cls, df: pd.DataFrame):
+        store_dir = './stats'
+        utils.create_directory(store_dir)
         plt.title('Curiosities length per domain area')
         ax = sns.violinplot(x=df['Curiosity Type'], y=df['Length (Nºwords)'], inner="quartile", scale="count")
-        plt.savefig("stats/curiosities_length_destribution.png",
+        plt.savefig(f"{store_dir}/curiosities_length_destribution.png",
                     format='png', dpi=150)
 
     @classmethod
@@ -141,7 +144,7 @@ if __name__ == '__main__':
     #c_recipes_stats.draw_stats()
 
     curiosity_dataset_path = 'dataset/diys_dataset'
-    curiosity_dataset = Curiosity_Dataset(curiosity_dataset_path, Curiosity_Type.RECIPE)
+    curiosity_dataset = Curiosity_Dataset(curiosity_dataset_path, Curiosity_Type.DIY)
     c_diys_stats = Curiosity_Stats(curiosity_dataset.curiosity_phrases, curiosity_dataset.curiosity_categories)
 
     print('\n=======================\n')

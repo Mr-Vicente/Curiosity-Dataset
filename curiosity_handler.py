@@ -1,8 +1,6 @@
 
 import random
-from general_utils import read_json_file_2_dict
-
-from collections import Counter
+from utils import read_json_file_2_dict
 from enum import Enum
 
 class Sentence_Type(Enum):

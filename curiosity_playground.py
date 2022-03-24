@@ -3,7 +3,7 @@ from curiosity_builder import Curiosity_Builder
 from curiosity_dataset import Curiosity_Dataset
 from curiosity_handler import Curiosity_Handler
 
-from general_utils import Curiosity_Type
+from utils import Curiosity_Type
 
 def recipe():
     curiosity_dataset_path = 'dataset/recipes_dataset'
