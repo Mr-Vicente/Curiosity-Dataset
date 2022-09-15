@@ -26,27 +26,27 @@
 
 ## Description
 
-Curiosity Dataset is a Python library which provides fun facts about the cuisine and DIY theme.
+Curiosity Dataset is a Python library which provides fun facts (~1350) about the cuisine and DIY theme.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Curiosity-Dataset.
+You can clone with git to install Curiosity-Dataset.
 
 ```bash
-pip install curiosity_dataset
+git clone https://github.com/Mr-Vicente/Curiosity-Dataset.git
 ```
 
 ## Usage
 
 ```python
-import curiosity_dataset
+import Curiosity_Dataset
+from utils import Curiosity_Type
 
-# find cuisine curiosities
-curiosity_dataset.cuisine
+# Get cuisine curiosities
+curiosity_dataset_path = 'dataset/recipes_dataset'
+curiosity_dataset = Curiosity_Dataset(curiosity_dataset_path, Curiosity_Type.RECIPE)
+print("Cuisine Curiosities:", curiosity_dataset.curiosity_phrases)
 ```
 
-## Roadmap
-
-
 ## License
-In consideration
+[MIT](https://choosealicense.com/licenses/mit/)
