@@ -91,7 +91,7 @@ class Curiosity_Stats:
     def create_mixture_phrase_length_violin_plot(cls, df: pd.DataFrame):
         store_dir = './stats'
         utils.create_directory(store_dir)
-        plt.title('Curiosities length per domain area')
+        plt.title('Curiosities Length Per Domain Area')
         ax = sns.violinplot(x=df['Curiosity Type'], y=df['Length (Nºwords)'], inner="quartile", scale="count")
         plt.savefig(f"{store_dir}/curiosities_length_destribution.png",
                     format='png', dpi=150)
@@ -102,10 +102,10 @@ class Curiosity_Stats:
                                                 diy_curiosities: List[str]):
         recipes_curios_lenght, diy_curios_length = [], []
         for curiosity in recipes_curiosities:
-            recipes_curios_lenght.append(('recipe',
+            recipes_curios_lenght.append(('Recipe',
                                           cls.size_of_curiosity(cls,length_type, curiosity)))
         for curiosity in diy_curiosities:
-            diy_curios_length.append(('diy',
+            diy_curios_length.append(('DIY',
                                       cls.size_of_curiosity(cls, length_type, curiosity)))
         total = recipes_curios_lenght + diy_curios_length
         df = pd.DataFrame({

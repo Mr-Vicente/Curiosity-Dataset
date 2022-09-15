@@ -284,7 +284,7 @@ Milking machines were invented in 1984.<sep><animal cow><sep>1984
 
 Other than cows, water buffalo, camels, goats, sheep, horses and even reindeer are milked.<sep><animal cow>
 
-All 'cows' are female? Only males are called bulls.<sep><animal cow>
+All 'cows' are female. Only males are called bulls.<sep><animal cow>
 
 A cow has 32 teeth.<sep><animal cow>
 
